@@ -1,2 +1,2 @@
 # KNN_IRIS-Dataset
-K-Nearest Neighbor on IRIS dataset from scratch 
+K-Nearest Neighbors on IRIS dataset from scratch with accuarcy test . 
